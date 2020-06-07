@@ -1,5 +1,5 @@
 # afplistusers
 
-*** This work isn't finnished yet. ***
+*** This work isn't finished yet. ***
 
 Task proposed by Impsyde
