@@ -7,8 +7,9 @@ Thi
 ## Installation
 
 1) Download the zip file [AfpListUser.zip](http://www.ensaios3d.com/AfpListUser.zip);
-2) Activate the plugin on WordPress Admin Page.
-3) Access the AFP List Users plugin through the lateral menu.
+2) Upload the zip file on WordPress plugin instalation section;
+3) Activate the plugin on WordPress Admin Page;
+4) Access the AFP List Users plugin through the lateral menu.
 
 ![AFPListUsers](https://www.ensaios3d.com/inpsyde1.gif)
 
