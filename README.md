@@ -11,7 +11,7 @@ Thi
 3) Activate the plugin on WordPress Admin Page;
 4) Access the AFP List Users plugin through the lateral menu.
 
-![AFPListUsers](https://www.ensaios3d.com/inpsyde1.gif)
+![AFPListUsers](http://www.ensaios3d.com/inpsyde1.gif)
 
 ## Usage
 
@@ -24,9 +24,9 @@ Create a dummy post and enter with the ShortCode *[inpsyde-job-test]*.
 
 You will be able to see the list of users on your page.
 
-![AFPListUsers](https://www.ensaios3d.com/inpsyde2.gif)
+![AFPListUsers](http://www.ensaios3d.com/inpsyde2.gif)
 
-![AFPListUsers](https://www.ensaios3d.com/inpsyde3.gif)
+![AFPListUsers](http://www.ensaios3d.com/inpsyde3.gif)
 
 NOTE: Other JSON file can be used, all you have to do is to paste the link and *save & test*. If using other file, please note if this file has the same structure as the original provided.
 
