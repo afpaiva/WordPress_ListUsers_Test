@@ -2,8 +2,6 @@
 
 This is a test proposed by Inpsyde. This files are only accessible by me and *jobs@inpsyde.com*. If other access is needed, please contact me: *andrepaiva.arq@gmail.com*.
 
-Thi
-
 ## Installation
 
 1) Download the zip file [AfpListUser.zip](http://www.ensaios3d.com/AfpListUser.zip);
