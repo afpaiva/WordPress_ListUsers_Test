@@ -24,11 +24,11 @@ Create a dummy post and enter with the ShortCode *[inpsyde-job-test]*.
 
 You will be able to see the list of users on your page.
 
-NOTE: Other JSON file can be used, all you have to do is to paste the link and *save & test*. If using other file, please note if this file has the same structure as the original provided.
-
 ![AFPListUsers](https://www.ensaios3d.com/inpsyde2.gif)
 
 ![AFPListUsers](https://www.ensaios3d.com/inpsyde3.gif)
+
+NOTE: Other JSON file can be used, all you have to do is to paste the link and *save & test*. If using other file, please note if this file has the same structure as the original provided.
 
 ## About this test
 First, I'd like to thank you for this opportunity to show my skills. I have already worked with PHP and JavaScript, but always on personal projects. This time I had to study different techniques to achieve this result, and it was really productive.Since working with WordPress, making unit tests, parsing JSON file. I climbed some steps in this process, and hope to climb more if having your approbation.
