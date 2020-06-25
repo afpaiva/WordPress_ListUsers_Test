@@ -2,7 +2,7 @@
 /*
 Plugin Name: AFP-List User
 Plugin URI: http://www.github.com/afpaiva
-Description: A task proposed by Impsyde. Hope to present a good work. Thanks for this opportunity.
+Description: A task proposed by Inpsyde. Hope to present a good work. Thanks for this opportunity.
 Version: 1.0
 Author: Andre Fonseca de Paiva
 Author URI: http://www.ensaios3d.com/andrepaiva
