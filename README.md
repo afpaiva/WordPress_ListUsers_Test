@@ -1,6 +1,6 @@
 # AFP List Users
 
-This is a test proposed by Inpsyde. This files are only accessible by me and *jobs@inpsyde.com*. If other access is needed, please contact me: *andrepaiva.arq@gmail.com*.
+This is a test proposed by Inpsyde.
 
 ## Installation
 
@@ -34,7 +34,10 @@ First, I'd like to thank you for this opportunity to show my skills. I have alre
 It will be a huge pleasure to talk to you, introduce myself better, and show my interest in working on Inpsyde. I've been watching some videos about Inpsyde, staffs, interview, and I appreciate your integration.
 
 Thanks, all the best,
+
 Andre Fonseca de Paiva
+
+*andrepaiva.arq@gmail.com*.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
