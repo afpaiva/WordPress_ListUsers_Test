@@ -2,7 +2,7 @@
 
 This was a test for a job, where I was asked to create a WordPress plugin that reads a JSON URL and show on screen.
 
-## Installation
+## :pushpin: Installation
 
 1) Download the zip file [AfpListUser.zip](http://www.ensaios3d.com/AfpListUser.zip);
 2) Upload the zip file on WordPress plugin instalation section;
@@ -30,6 +30,8 @@ NOTE: Other JSON file can be used, all you have to do is to paste the link and *
 
 ## About this test
 I have already worked with PHP and JavaScript, but always on personal projects. This time I had to study different techniques to achieve this result, and it was really productive. I climbed a lot of steps in this process.
+
+**updating**: I had a feedback, I should study Composer, and unit test.
 
 Thanks,
 
