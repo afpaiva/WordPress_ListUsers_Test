@@ -99,7 +99,7 @@ namespace {
           
           <br><br><br>
           <h3>How to show on page:</h3>
-          <p>Create a post typing <b>[inpsyde-job-test]</b>, the table will be shown on page.</p>
+          <p>Create a post typing <b>[listusers-job-test]</b>, the table will be shown on page.</p>
           
           <script>
              localStorage.removeItem('cache-users');
