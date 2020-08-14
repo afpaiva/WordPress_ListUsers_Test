@@ -29,9 +29,10 @@ You will be able to see the list of users on your page.
 NOTE: Other JSON file can be used, all you have to do is to paste the link and *save & test*. If using other file, please note if this file has the same structure as the original provided.
 
 :pushpin: **About this test**
+
 I have already worked with PHP and JavaScript, but always on personal projects. This time I had to study different techniques to achieve this result, and it was really productive. I climbed a lot of steps in this process.
 
-**updating**: I had a feedback, I should study Composer, and unit test.
+:repeat: **updating**: I had a feedback, I should study Composer, and unit test.
 
 Thanks,
 
