@@ -2,7 +2,7 @@
 /*
 Plugin Name: AFP-List User
 Plugin URI: http://www.github.com/afpaiva
-Description: A task proposed by Inpsyde. Hope to present a good work. Thanks for this opportunity.
+Description: A task proposed for a job test.
 Version: 1.0
 Author: Andre Fonseca de Paiva
 Author URI: http://www.ensaios3d.com/andrepaiva
@@ -26,7 +26,7 @@ namespace {
         private function __construct()
         {
             add_action('admin_menu', array($this, 'customFieldsSet'));
-            add_shortcode('inpsyde-job-test', array($this, 'afpListUsers'));
+            add_shortcode('listusers-job-test', array($this, 'afpListUsers'));
         }
 
         public function afpListUsers() : string
@@ -75,7 +75,7 @@ namespace {
         {
             ?>
           <h1>List Users</h1>
-          <h3>A test for Inpsyde</h3>
+          <h3>A test of JSON file listing.</h3>
           Author: Andre Paiva<br><br><br><br>
           <h3>This is a plugin test.</h3>
           You can add into a Blog Post, or anywhere on page a dynamic table with users list from the
