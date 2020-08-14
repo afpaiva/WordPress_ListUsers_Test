@@ -1,0 +1,38 @@
+#users-table{
+    max-width: 600px;
+    margin: auto
+}
+#display-users{
+    float: left;
+    top:0px;
+    left:0px;
+    width:0%;
+    height:0%;
+}
+#details-table, tr, td,
+#details-table-header,
+#details-table-footer
+{
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.52);
+    color: rgb(59, 59, 59);
+    border:none;
+}
+#details-table,
+#details-table-header,
+#details-table-footer{
+    position: relative;
+    max-width: 600px;
+    border:none;
+    margin: auto;
+}
+#table-open{
+    position: relative;
+    display: inline-block;
+    margin:auto;
+}
+#users-table-container{
+    position: relative;
+    visibility: visible;
+    overflow: hidden;
+}
